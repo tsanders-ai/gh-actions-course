@@ -1,8 +1,11 @@
 name: 02 - Workflow Events
     
 on: 
+<<<<<<< HEAD
     # push:
     # pull_request:
+=======
+>>>>>>> fa8577f7e5a82031cd66713b85802974e34c997d
     workflow_dispatch:
         
 
